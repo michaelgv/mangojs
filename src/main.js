@@ -16,7 +16,7 @@ const store = new Vuex.Store({
         title: 'Hello, world!',
         slug: '/post/1/Hello-world',
         date: '11/10/2017, 09:30:26',
-        content: '# Welcome, world!\n\nThis is my **brand new** blog! Thanks for visiting it! This is a default post included when you fire up mango for the first time and create a new project.\n\n[Learn More](https://mango.js.org/#/papers/1/Installing-mango)',
+        content: '# Welcome, world!\n\nThis is my **brand new** blog! Thanks for visiting it! This is a default post included when you fire up mango for the first time and create a new project.\n\n[Learn More](https://github.com/michaelgv/mangojs/)',
       },
     ],
     papers: [
